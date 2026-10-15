@@ -1,0 +1,9 @@
+---
+title: prueba
+format: html
+---
+
+
+```{python}
+import pandas as pd
+```
